@@ -1,0 +1,9 @@
+author: Jianwei Han
+url: http://android-class.github.io
+title: 智能设备软件开发实训
+
+pygments: true
+markdown: redcarpet
+
+redcarpet:
+  extensions: [no_intra_emphasis, tables, fenced_code_blocks, autolink, space_after_headers]
