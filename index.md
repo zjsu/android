@@ -5,7 +5,7 @@ comments: false
 
 # {{ site.title }}
 
-## 目录
+## 课程目录
 
 1. [Android 平台简介](chapters/1)
 
