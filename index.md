@@ -13,6 +13,9 @@ comments: false
 ## 网络资源
 
 - [Android开发者官方网站](http://developer.android.com/intl/zh-cn/index.html)
+- [Android API指南(翻译版)](http://wiki.eoeandroid.com/Android_API_Guides)
+- [Android开发实战](http://wiki.eoeandroid.com/Android_Training)
+- [Android开发工具](http://wiki.eoeandroid.com/Android_Tools)
 - [GitHub](https://github.com)
 - [Stackoverflow](http://stackoverflow.com/questions/tagged/android)
 - [水木社区手机开发板](http://newsmth.net/nForum/#!board/MobileDev)
@@ -20,7 +23,17 @@ comments: false
 - [V2EX](http://v2ex.com)
 - [eoe Android开发社区](http://www.eoeandroid.com)
 
+## Android的Java基础
+
+- [Java4Android-Mars(视频教程)](http://www.youku.com/playlist_show/id_16702635.html)
+
 ## 在线教程
 
 - [密西西比河谷州立大学：Android应用程序开发](http://v.163.com/special/opencourse/developingandroidapplications.html)
 - [Programming Mobile Applications for Android Handheld Systems](https://class.coursera.org/android-001)
+- [老罗Android开发 视频教程](http://luo.apkbus.com)
+- [安卓开发教程最强大搜集！](http://www.douban.com/group/topic/42492792/)
+
+## 免费书籍
+
+- [深入淺出 Android -- Google 手持設備應用程式設計入門](https://code.google.com/p/androidbmi/wiki/IntroAndroid)
