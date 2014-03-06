@@ -8,7 +8,7 @@ comments: false
 ## 课程目录
 
 1. [Android 平台简介](chapters/1)
-2. []
+2. [应用程序基础](chapters/2)
 
 
 ## 网络资源
