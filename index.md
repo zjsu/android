@@ -9,6 +9,7 @@ comments: false
 
 1. [Android 平台简介](chapters/1)
 2. [应用程序基础](chapters/2)
+3. [高级界面开发技术](chapters/3)
 
 
 ## 网络资源
