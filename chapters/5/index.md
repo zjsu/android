@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Android数据存储
+title: 数据存储
 ---
 
 ## 课件

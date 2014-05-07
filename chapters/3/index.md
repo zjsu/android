@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 高级界面开发技术
+title: 活动(Activity)
 ---
 
 ## 课件

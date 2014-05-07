@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Android界面开发
+title: 界面开发
 ---
 
 ## 课件
