@@ -12,6 +12,7 @@ comments: false
 3. [活动(Activity)](chapters/3)
 4. [界面开发](chapters/4)
 5. [数据存储](chapters/5)
+6. [高级界面开发](chapters/6)
 
 ## 网络资源
 
