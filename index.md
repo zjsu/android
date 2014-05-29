@@ -13,6 +13,8 @@ comments: false
 4. [界面开发](chapters/4)
 5. [数据存储](chapters/5)
 6. [高级界面开发](chapters/6)
+7. [广播、服务、多线程](chapters/7)
+8. [网络、多媒体、传感器……](chapters/8)
 
 ## 网络资源
 
