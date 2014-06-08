@@ -16,6 +16,10 @@ comments: false
 7. [广播、服务、多线程](chapters/7)
 8. [网络、多媒体、传感器……](chapters/8)
 
+## 实验报告模板
+
+- [模板下载](docs/lab.doc)
+
 ## 网络资源
 
 - [Android开发者官方网站](http://developer.android.com/intl/zh-cn/index.html)
