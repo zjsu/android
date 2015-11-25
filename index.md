@@ -32,6 +32,7 @@ comments: false
 - [知乎](http://www.zhihu.com/topic/19555634)
 - [V2EX](http://v2ex.com)
 - [eoe Android开发社区](http://www.eoeandroid.com)
+- [Android Studio 系列教程](http://stormzhang.com/posts.html#AndroidStudio)
 
 ## Android的Java基础
 
