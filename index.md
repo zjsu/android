@@ -33,6 +33,7 @@ comments: false
 - [V2EX](http://v2ex.com)
 - [eoe Android开发社区](http://www.eoeandroid.com)
 - [Android Studio 系列教程](http://stormzhang.com/posts.html#AndroidStudio)
+- [Android 开发者必备的书单](http://www.jianshu.com/p/92ec3e57ee2e)
 
 ## Android的Java基础
 
